@@ -15,7 +15,9 @@ NOTE:At the beginning of the video I say you will not have prep.zip . You will h
 
 START HERE:
 Open 'Applications' --> 'Favorites' --> 'Terminal'.
+
 Execute these 2 lines:
+
 [CODE]
 cd Persitent
 
