@@ -18,6 +18,7 @@ Open 'Applications' --> 'Favorites' --> 'Terminal'.
 Execute these 2 lines:
 [CODE]
 cd Persitent
+
 wget https://www.dropbox.com/s/sxq88j1jw0b3v3f/prep.zip?dl=0 -O prep.zip
 [/CODE]
 
