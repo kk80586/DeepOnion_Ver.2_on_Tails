@@ -29,15 +29,23 @@ Right click on prep.zip and click "Extract Here".
 
 Open 'Applications' --> 'Favorites' --> 'Terminal'.
 Execute these 3 lines:
+
 [CODE]
+
 chmod +x prep.sh
+
 ./prep.sh
+
 ./install-DeepOnion.sh
+
 [/CODE]
 
 When blockchain is done downloading (and after every reboot), execute: 
+
 [CODE]
+
 ./config-DeepOnion.sh
+
 [/CODE]
 
 You need to keep config-DeepOnion.sh in your Persistent folder. You can delete all other files if you wish.
